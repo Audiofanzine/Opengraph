@@ -32,6 +32,7 @@ abstract class Opengraph implements Iterator, Serializable, Countable
      * Optional Metadata
      */
     const OG_IMAGE_SECURE_URL   = 'og:image:secure_url';
+    const OG_IMAGE_ALT          = 'og:image:alt';
     const OG_IMAGE_TYPE         = 'og:image:type';
     const OG_IMAGE_WIDTH        = 'og:image:width';
     const OG_IMAGE_HEIGHT       = 'og:image:height';
